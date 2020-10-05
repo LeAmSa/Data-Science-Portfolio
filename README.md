@@ -13,15 +13,15 @@ The repository is composed of projects that I developed in the academic period a
 	- (***Supervised Learning***) [Hotel Booking Prediction](https://github.com/LeAmSa/Data-Science-Portfolio/tree/master/Hotel%20Booking%20Prediction): Analyzing the public Hotel Booking dataset and creating classification models to predict the possibility of a booking.
 	
 	*Main Tools:* 
-	*Deep Learning:* Google Colab, Tensorflow, Keras, and Sklearn.
-	*Supervised Learning:* Pandas, Numpy, Matplotlib, Seaborn, and Sklearn. 
+	- *Deep Learning:* Google Colab, Tensorflow, Keras, and Sklearn.
+	- *Supervised Learning:* Pandas, Numpy, Matplotlib, Seaborn, and Sklearn. 
 		
 - ### Micro Projects
 	- (***Time Series***) [Air Passenger Time Series](https://github.com/LeAmSa/Data-Science-Portfolio/blob/master/Micro%20Projects/Air%20Passenger%20Time%20Series.ipynb): Analyzing and modeling a time series based on the public Air Passenger dataset.
 	-  (***Text Mining***) [Text Mining with NLTK](https://github.com/LeAmSa/Data-Science-Portfolio/blob/master/Micro%20Projects/Text%20Mining%20with%20NLTK.ipynb): Applying text mining techniques in a small set of documents.
 	
 	*Main Tools:*
-	*Time Series:* Pandas, Statsmodels, ARIMA.
-	*Text mining:* NLTK. 
+	- *Time Series:* Pandas, Statsmodels, ARIMA.
+	- *Text mining:* NLTK. 
 
 
